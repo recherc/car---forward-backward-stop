@@ -71,4 +71,4 @@ radio.onReceivedNumber(function (receivedNumber) {
 })
 ```
 ## Congratulations! 
-You are done. Download the code to both the remote and receiver micro:bit.Then test your code.
+You are done. Download the code to both the remote and receiver micro:bit. Then test your code.
