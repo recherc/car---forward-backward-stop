@@ -11,7 +11,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "car_move.md"
+        "car_move.md",
+        "car_moveV2.md"
     ],
     "testFiles": [
         "test.ts"
